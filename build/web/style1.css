@@ -1,0 +1,39 @@
+.layout{
+                width: 500px;
+                height: 200px;
+                
+                border: 1px solid blueviolet;
+            }
+            .tbl{
+                width: 90%;
+                height: auto;
+                margin-left: 5%;
+                margin-top: 3%;
+                background-color:thistle;
+                float: left;
+                padding-top: 5%;
+                padding-bottom: 5%;
+            }
+            .td1{
+                font-family: verdana;
+                font-size: 12px;
+                 margin-left: 5%;
+                color: black;
+                height: 35px;
+            }
+            .txt{
+                border: 1px solid #000;
+                width: 320px;
+                height: 25px;
+                padding-left:20px;
+            }
+            .sbt{
+                width: 100px;
+                height: 30px;
+                  border: 1px solid #000;
+                color: darkgray;
+                margin-left: 50px;
+               color: black;
+            }
+    
+    
